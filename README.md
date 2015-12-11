@@ -1,0 +1,2 @@
+# mylocale
+Test
